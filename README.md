@@ -1,20 +1,12 @@
-### Hi there 👋
+### Hello 👋
 
-<!--
-**AndreiaPp/AndreiaPp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science student at University of Aveiro. I'm currently on my last year and hopefully will graduate by the end of it 😊.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on finishing my degree!
+- 🌱 I’m currently learning to work with Unity
+- 📫 How to reach me: andreia.portela@ua.pt 
+- 👯 Hobbies: Reading (mostly fantasy), playing games and watching Netflix 
+- ⚡ Fun fact: I can sew and crochet 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-[![Andreia's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreiaPp&show_icons=true&theme=panda&count_private=true)](https://github.com/AndreiaPp/github-readme-stats)
-
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiaPp&theme=tokyonight)
+![Andreia's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreiaPp&show_icons=true&theme=panda&count_private=true)
