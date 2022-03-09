@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Andreia's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreiaPp&show_icons=true&theme=radical)](https://github.com/AndreiaPp/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiaPp&langs_count=8)](https://github.com/AndreiaPp/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiaPp)](https://github.com/AndreiaPp/github-readme-stats)
