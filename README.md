@@ -9,6 +9,6 @@ I am a Computer Science student at University of Aveiro. I'm currently on my las
 - ⚡ Fun fact: I can sew and crochet 
 
 
-<img align="right" alt="GIF" src="https://github.com/AndreiaPp/AndreiaPp/master/programmig.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/AndreiaPp/AndreiaPp/blob/main/programming.gif?raw=true" width="408" height="318" />
   
 ![Andreia's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreiaPp&show_icons=true&theme=panda&count_private=true)
