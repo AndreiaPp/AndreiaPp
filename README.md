@@ -7,8 +7,6 @@ I am a Computer Science student at University of Aveiro. I'm currently on my las
 - 📫 How to reach me: andreia.portela@ua.pt 
 - 👯 Hobbies: Reading (mostly fantasy), playing games and watching Netflix 
 - ⚡ Fun fact: I can sew and crochet 
-
-
-<img align="right" alt="GIF" src="https://github.com/AndreiaPp/AndreiaPp/blob/main/code.gif?raw=true" width="408" height="318" />
+<img align="inline" alt="GIF" src="https://github.com/AndreiaPp/AndreiaPp/blob/main/code.gif?raw=true" width="500" height="350" />
+<img align="inline"  src="https://github-readme-stats.vercel.app/api?username=AndreiaPp&show_icons=true&theme=buefy&count_private=true"  />
   
-![Andreia's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreiaPp&show_icons=true&theme=panda&count_private=true)
